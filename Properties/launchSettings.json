@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "IOT_cloud_week2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7034",
+      "launchBrowser": false
+    }
+  }
+}
